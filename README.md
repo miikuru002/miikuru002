@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hola! ![](https://komarev.com/ghpvc/?username=kurumii002) 
+Soy una persona a la que le gusta programar y aprender cosas nuevas, me especializo en el desarrollo backend. Manejo diversas tecnologías como Spring Framework, Express.js y .NET Core. También tengo conocimientos sobre React y Angular, y bases de datos:). Los principales idiomas que hablo son: `EN/ES`
 
-<!--
-**miikuru002/miikuru002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ℹ️ Sobre mí: 
+- 🚀 Estoy trabajando en MySato, un proyecto personal
+- 💞️ Actualmente estoy interesado en el desarrollo móvil nativo para iOS
+- 🌱 Estoy estudiando Ingeniería de Software
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mis estadísticas:
+<div align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miikuru002&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikuru002&show_icons=true&layout=compact&langs_count=6" />
+</div>
