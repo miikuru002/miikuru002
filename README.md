@@ -8,6 +8,6 @@ Soy una persona a la que le gusta programar y aprender cosas nuevas, me especial
 
 ## 📊 Mis estadísticas:
 <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miikuru002&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miikuru002" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikuru002&show_icons=true&layout=compact&langs_count=6" />
 </div>
