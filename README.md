@@ -19,7 +19,7 @@
 ``` ts
 export const aboutMe = {
   pronouns: "he/him",
-  nicknames: ["miikuru002", "kurumii002 (old)],
+  nicknames: ["miikuru002", "kurumii002 (old)"],
   likes: ["coding", "anime", "electro & Jpop music"],
   interests: ["DevOps", "Microservices (I'm currently studying it!)", "ML & IA", "Cooking"],
   techStack: {
