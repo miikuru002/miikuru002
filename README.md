@@ -1,12 +1,12 @@
 <!--IMG-->
 <p align="center">
-  <img src="https://github.com/miikuru002/miikuru002/assets/38484391/211f597b-0b5b-426b-80b8-26e7ac28f158" />
+  <img src="https://github.com/miikuru002/miikuru002/assets/38484391/4f23ebd9-4e86-42ce-b421-8294a159fb66" />
 </p>
 
 <!--BADGES-->
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=kurumii002&style=flat-square" />
- <img src="https://badges.pufler.dev/years/miikuru002?style=flat-square&color=orange" />
+ <img src="https://badges.pufler.dev/years/miikuru002?style=flat-square&color=orange&label=Years%20on%20GH" />
  <img src="https://badges.pufler.dev/repos/miikuru002?style=flat-square&color=yellow" />
  <img src="https://badges.pufler.dev/commits/monthly/miikuru002?style=flat-square" />
 </p>
