@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I'm an enthusiastic learner who enjoys exploring new technologies to create solutions 💫. My focus is on Backend development using Spring Boot, with React as my hobby 💖
+  I'm an enthusiastic learner who enjoys exploring new technologies to create solutions 💫. My focus is on backend development & cloud architecture ⛅️.
 </p>
 
 ## ⚙️ About me: 
@@ -21,22 +21,13 @@ export const aboutMe = {
   pronouns: "he/him",
   nicknames: ["miikuru002", "kurumii002 (old)"],
   likes: ["coding", "anime", "electro & Jpop music"],
-  interests: ["DevOps", "Microservices (I'm currently studying it!)", "ML & IA", "Cooking"],
+  interests: ["DevOps", "Microservices", "Cloud", "ML & IA", "Cooking"],
+  profession: "Software engineer",
   techStack: {
     backend: ["Spring Boot 🍃", ".NET 🟪", "Express.js ⚡", "NestJS 🐱"],
-    frontend: ["React ⚛️", "Angular 🅰️"],
-    tools: ["Git 🔱", "Docker 🐋", "AWS ☁️"],
+    frontend: ["React ⚛️", "Vue 🔰"],
+    tools: ["Git 🔱", "Docker 🐋", "AWS ☁️", "AI"],
   },
-  studies: [
-    {
-      degree: "Software engineer",
-      status: Status.IN_COURSE,
-    },
-    {
-      degree: "Software Design & Development bachelor",
-      status: Status.FINISHED,
-    },
-  ],
 };
 ```
 
