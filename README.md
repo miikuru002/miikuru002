@@ -5,10 +5,7 @@
 
 <!--BADGES-->
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=kurumii002&style=flat-square" />
- <img src="https://badges.pufler.dev/years/miikuru002?style=flat-square&color=orange&label=Years%20on%20GH" />
- <img src="https://badges.pufler.dev/repos/miikuru002?style=flat-square&color=yellow" />
- <img src="https://badges.pufler.dev/commits/monthly/miikuru002?style=flat-square" />
+ <img src="https://komarev.com/ghpvc/?username=kurumii002&style=flat-square&abbreviated=true" />
 </p>
 
 <p align="center">
